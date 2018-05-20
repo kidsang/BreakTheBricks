@@ -8,9 +8,19 @@
 		"promise/bin/promise.js"
 	],
 	"game": [
-		"bin-debug/AssetAdapter.js",
+		"bin-debug/Obj/GameObj.js",
+		"bin-debug/Scene/BaseScene.js",
+		"bin-debug/Obj/BlockObj.js",
+		"bin-debug/NameDefine.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/Comm/EgretUtil.js",
+		"bin-debug/Obj/BallObj.js",
 		"bin-debug/LoadingUI.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Obj/UsingObj.js",
 		"bin-debug/Main.js",
-		"bin-debug/ThemeAdapter.js"
+		"bin-debug/Scene/FightScene.js",
+		"bin-debug/Scene/FightSceneFactor.js",
+		"bin-debug/UI/BaseUI.js"
 	]
 }

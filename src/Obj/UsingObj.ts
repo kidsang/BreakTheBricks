@@ -1,0 +1,3 @@
+class UsingObj extends GameObj{
+
+}

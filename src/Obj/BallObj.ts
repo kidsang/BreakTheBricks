@@ -1,0 +1,3 @@
+class BallObj extends GameObj{
+    
+}
